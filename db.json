@@ -1,0 +1,144 @@
+{
+  "capitals": [
+    {
+      "id": 1,
+      "name": "New York",
+      "timezone": "America/New_York",
+      "imageDay": "https://t3.ftcdn.net/jpg/03/27/26/34/360_F_327263406_naAbrh7y0Hayh6nQZYkN2UWSyDYKo6bS.jpg",
+      "imageNight": "https://media.istockphoto.com/id/1153849876/photo/panoramic-view-of-manhattan-skyscrapers-at-night-at-christmas-from-the-dumbo-area-in-brooklyn.jpg?s=612x612&w=0&k=20&c=4vSOVe8sQY7XQQ_Cnx7Y9If8x9cAaUIX-uy3CP_PE8k="
+    },
+    {
+      "id": 2,
+      "name": "London",
+      "timezone": "Europe/London",
+      "imageDay": "https://hips.hearstapps.com/housebeautiful.cdnds.net/17/28/2048x1024/landscape-1499867965-london-skyline-daytime.jpg?resize=1200:*",
+      "imageNight": "https://live.staticflickr.com/804/40078771625_0a6895c89b_b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "timezone": "Asia/Tokyo",
+      "imageDay": "https://thumbs.dreamstime.com/b/tokyo-skyline-city-day-time-35100142.jpg",
+      "imageNight": "https://a.cdn-hotels.com/gdcs/production142/d1399/f8f4ac45-1083-49d2-8cfa-1bf5939bc3ac.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Paris",
+      "timezone": "Europe/Paris",
+      "imageDay": "https://st.depositphotos.com/1010122/1421/i/950/depositphotos_14214008-stock-photo-the-city-skyline-at-daytime.jpg",
+      "imageNight": "https://thumbs.dreamstime.com/b/paris-skyline-night-france-panorama-view-montpanasse-tower-october-82074984.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Moscow",
+      "timezone": "Europe/Moscow",
+      "imageDay": "https://media.istockphoto.com/id/509346186/photo/panoramic-view-of-moscow-city.jpg?s=612x612&w=0&k=20&c=SXJtc9SWQOxh5sVN5zwgHc5e4gbWXbJ0WZ8gWs8Ji60=",
+      "imageNight": "https://media.istockphoto.com/id/108350592/photo/cityscape-at-twilight-birds-eye-view.jpg?s=612x612&w=0&k=20&c=CYC-0vGJ8n-aGNHmkTNi5UiaGW65RUz_S4Sp_O1qJok="
+    },
+    {
+      "id": 6,
+      "name": "Beijing",
+      "timezone": "Asia/Shanghai",
+      "imageDay": "https://media.istockphoto.com/id/467898178/photo/beijing-china-cbd-cityscape.jpg?s=612x612&w=0&k=20&c=qeFJK2J9T-45cZ66gmtPjhEsC-36x0xXwsUZ-XboPy8=",
+      "imageNight": "https://media.istockphoto.com/id/1317157834/video/t-l-aerial-view-of-beijing-skyline-and-downtown-at-night-beijing-china.jpg?s=640x640&k=20&c=CIaAFmHTXKb-9cV85Ccs8oD0LFBeb66ifnJZNdrTckQ="
+    },
+    {
+      "id": 7,
+      "name": "Sydney",
+      "timezone": "Australia/Sydney",
+      "imageDay": "https://d3e1m60ptf1oym.cloudfront.net/fca2d51b-8510-4583-8cb6-9d6a7640f82a/E03697-FR-01_uxga.jpg",
+      "imageNight": "https://media.istockphoto.com/id/1074255534/photo/panorama-of-sydney-harbour-and-bridge-in-sydney-city.jpg?s=612x612&w=0&k=20&c=hnsT8GPOztFh7hypgQwmH0AazCa9SBJRM9TpOAB3I7I="
+    },
+    {
+      "id": 8,
+      "name": "Cairo",
+      "timezone": "Africa/Cairo",
+      "imageDay": "https://media.istockphoto.com/id/1148380677/photo/beautiful-view-of-cairo-and-the-nile-from-above-egypt.jpg?s=612x612&w=0&k=20&c=qDHufS46vGfbf9Bk7gTxRTDqiOudefiL5ADspt3ckz4=",
+      "imageNight": "https://media.istockphoto.com/id/506144390/photo/city-skyline-cairo-at-dusk.jpg?s=612x612&w=0&k=20&c=jzD8-28nYldYgfyalH4JgxqrF8oFT4mNLvJMFjyajCQ="
+    },
+    {
+      "id": 9,
+      "name": "Rio de Janeiro",
+      "timezone": "America/Sao_Paulo",
+      "imageDay": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/17/2a/5a.jpg",
+      "imageNight": "https://travel2next.com/wp-content/uploads/rio-de-janeiro-at-night.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "imageDay": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80",
+      "imageNight": "https://i.natgeofe.com/n/df69c320-2f1b-4b9e-b5c2-d179927ab910/south-africa-tourism-johannesburg-1_3x2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Istanbul",
+      "timezone": "Europe/Istanbul",
+      "imageDay": "https://www.celebritycruises.com/blog/content/uploads/2022/12/best-time-to-visit-istanbul-hero-cta.jpg",
+      "imageNight": "https://theturkeytraveler.com/wp-content/uploads/2022/07/Istanbul-at-Night-Featured.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Berlin",
+      "timezone": "Europe/Berlin",
+      "imageDay": "https://berlintraveltips.com/wp-content/uploads/2021/09/bucket-list-destinations-in-Germany-Berlin.jpg",
+      "imageNight": "https://media.istockphoto.com/id/490642812/photo/berlin-skyline-with-tv-tower-at-night-germany.jpg?s=612x612&w=0&k=20&c=bcflzlJv-NLPYKvJbEYeJHPoezxLLDQ19ePp7EAFaAA="
+    },
+    {
+      "id": 13,
+      "name": "Madrid",
+      "timezone": "Europe/Madrid",
+      "imageDay": "https://st4.depositphotos.com/7376578/21469/i/1600/depositphotos_214699836-stock-photo-panorama-of-color-madrid-residential.jpg",
+      "imageNight": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/01/33/49.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Rome",
+      "timezone": "Europe/Rome",
+      "imageDay": "https://as2.ftcdn.net/v2/jpg/02/30/90/21/1000_F_230902164_IPw1pGk6YyQNszJOZfG0R4ChzU5h0EE9.jpg",
+      "imageNight": "https://img.theculturetrip.com/wp-content/uploads/2017/11/34043713512_d54d971f10_o.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bangkok",
+      "timezone": "Asia/Bangkok",
+      "imageDay": "https://media.istockphoto.com/id/588575874/photo/bangkok-cityscape-with-main-garden.jpg?s=612x612&w=0&k=20&c=y_xtPstq4BLe7Z_u8XDwL9eaDlpQpYwFOEYHu_ObfdU=",
+      "imageNight": "https://www.thephuketnews.com/photo/listing/2018/1542183510_1-org.jpg"
+    },
+    {
+      "id": 16,
+      "name": "São Paulo",
+      "timezone": "America/Sao_Paulo",
+      "imageDay": "https://leaveyourdailyhell.com/wp-content/uploads/2019/06/Sao-Paulo-1.jpg",
+      "imageNight": "https://upload.wikimedia.org/wikipedia/commons/9/9b/S%C3%A3o_Paulo_-_Skyline_by_night.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Mexico City",
+      "timezone": "America/Mexico_City",
+      "imageDay": "https://media.istockphoto.com/id/182518453/photo/skyline-view-of-mexico-city-on-a-sunny-day.jpg?s=612x612&w=0&k=20&c=RcUiTr6AeSY36C1eI3LntPDGHjikezGnxg15DcgoABU=",
+      "imageNight": "https://live.staticflickr.com/7300/27155731690_f7088ddf26_b.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Cape Town",
+      "timezone": "Africa/Johannesburg",
+      "imageDay": "https://i0.wp.com/www.circleofblue.org/wp-content/uploads/2018/02/CapeTownDowntown.jpg?fit=1030%2C644&ssl=1",
+      "imageNight": "https://media.istockphoto.com/id/537259466/photo/cape-town-city-lights-lions-head-night-south-africa.jpg?s=612x612&w=0&k=20&c=4EO4z4vTLdE38-dKVPaTQnZWibLKSSF2LePqR0Iu0A8="
+    },
+    {
+      "id": 19,
+      "name": "Toronto",
+      "timezone": "America/Toronto",
+      "imageDay": "https://t4.ftcdn.net/jpg/01/41/15/71/360_F_141157106_mqwW7nzVmroUyvHij6pFgADPB7Vt5hoh.jpg",
+      "imageNight": "https://live.staticflickr.com/6133/6019024429_f535b076f8_b.jpg"
+    },
+    {
+      "id": 20,
+      "name": "New Delhi",
+      "timezone": "Asia/Kolkata",
+      "imageDay": "https://media.istockphoto.com/id/1255706053/photo/central-new-delhi.jpg?s=612x612&w=0&k=20&c=ce-027Rybado64mwDzvZpO6b0BisxRau3YLyKrX9RFI=",
+      "imageNight": "https://media.istockphoto.com/id/1254934253/photo/central-new-delhi.jpg?s=612x612&w=0&k=20&c=ulMHkg0dhK7z6-K3t2Msa6oSe-VmHkUtdqgTUFER-jQ="
+    }
+  ]
+}
