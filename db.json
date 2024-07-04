@@ -96,7 +96,7 @@
       "name": "Rome",
       "timezone": "Europe/Rome",
       "imageDay": "https://as2.ftcdn.net/v2/jpg/02/30/90/21/1000_F_230902164_IPw1pGk6YyQNszJOZfG0R4ChzU5h0EE9.jpg",
-      "imageNight": "https://img.theculturetrip.com/wp-content/uploads/2017/11/34043713512_d54d971f10_o.jpg"
+      "imageNight": "https://www.romabbella.com/wp-content/uploads/Roma-di-notte-1-800x480.jpg"
     },
     {
       "id": 15,
@@ -139,6 +139,13 @@
       "timezone": "Asia/Kolkata",
       "imageDay": "https://media.istockphoto.com/id/1255706053/photo/central-new-delhi.jpg?s=612x612&w=0&k=20&c=ce-027Rybado64mwDzvZpO6b0BisxRau3YLyKrX9RFI=",
       "imageNight": "https://media.istockphoto.com/id/1254934253/photo/central-new-delhi.jpg?s=612x612&w=0&k=20&c=ulMHkg0dhK7z6-K3t2Msa6oSe-VmHkUtdqgTUFER-jQ="
+    },
+    {
+      "name": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "imageDay": "https://media.istockphoto.com/id/478821794/photo/skyscrapers-of-los-angeles-skyline-architecture-urban-cityscape.jpg?s=612x612&w=0&k=20&c=NDZIvsRp8mQmY5h_DYIedD9rrx_jNu_sJ3oLuyV7a1E=",
+      "imageNight": "https://media.istockphoto.com/id/1155042919/photo/downtown-los-angeles-skyline-at-night.jpg?s=612x612&w=0&k=20&c=3q4l2J5DSf7dtHGm-AhWNMkoGS7dMvg_HWA5wmV412s=",
+      "id": 21
     }
   ]
 }
