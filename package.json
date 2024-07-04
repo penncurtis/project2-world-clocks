@@ -12,14 +12,15 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
+    "serve": "^14.2.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "server": "json-server --watch db.json --port 4000",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "start:all": "npm-run-all --parallel server start",
-    "serve": "serve -s build"
+    "start:all": "npm-run-all --parallel server serve",
+    "serve": "serve -s build -l 10000"
   },
   "eslintConfig": {
     "extends": [
