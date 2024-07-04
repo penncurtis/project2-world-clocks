@@ -6,6 +6,7 @@ function Header({ selectedCity, currentTime }) {
   const [isDayMode, setIsDayMode] = useState(true)
 
   useEffect(() => {
+    console.log('API Base URL:', process.env.REACT_APP_API_BASE_URL);
     fetch(`${process.env.REACT_APP_API_BASE_URL}/capitals`)
       .then(response => response.json())
       .then(data => {
