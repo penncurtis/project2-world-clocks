@@ -17,10 +17,9 @@
   "scripts": {
     "server": "json-server --watch db.json --port 4000",
     "start": "react-scripts start",
-    "start:all": "npm-run-all --parallel server start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start:all": "npm-run-all --parallel server start",
+    "serve": "serve -s build"
   },
   "eslintConfig": {
     "extends": [
