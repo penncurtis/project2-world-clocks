@@ -25,6 +25,7 @@ function App() {
     fetch(`${process.env.REACT_APP_API_BASE_URL}/capitals`)
       .then(response => response.json())
       .then(clocksData => {
+        console.log('Fetched clocks data:', clocksData);
         setClocks(clocksData);
         setFilteredClocks(clocksData);
         setSelectedCity(clocksData.length > 0 ? clocksData[0].name : '');
