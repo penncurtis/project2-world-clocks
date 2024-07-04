@@ -6,7 +6,7 @@ function Header({ selectedCity, currentTime }) {
   const [isDayMode, setIsDayMode] = useState(true)
 
   useEffect(() => {
-    fetch("http://localhost:4000/capitals")
+    fetch(`${process.env.REACT_APP_API_BASE_URL}/capitals`)
       .then(response => response.json())
       .then(data => {
         const selectedCityData = data.find(city => city.name === selectedCity);

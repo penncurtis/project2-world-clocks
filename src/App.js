@@ -21,7 +21,7 @@ function App() {
   })
 
   useEffect(() => {
-    fetch('http://localhost:4000/capitals')
+    fetch(`${process.env.REACT_APP_API_BASE_URL}/capitals`)
       .then(response => response.json())
       .then(clocksData => {
         setClocks(clocksData);
@@ -59,7 +59,7 @@ function App() {
   function addClock(event){
     event.preventDefault()
 
-    fetch("http://localhost:4000/capitals", {
+    fetch(`${process.env.REACT_APP_API_BASE_URL}/capitals`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
